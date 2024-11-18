@@ -1,0 +1,24 @@
+.container {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .title {
+    text-align: center;
+  }
+  
+  .crypto-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .crypto-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    text-align: center;
+  }
